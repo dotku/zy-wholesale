@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/zy-wholesale/static/css/main.075b2913.css",
-    "main.js": "/zy-wholesale/static/js/main.97b4e9d0.js",
+    "main.js": "/zy-wholesale/static/js/main.ead64dab.js",
     "static/js/787.f735e3cf.chunk.js": "/zy-wholesale/static/js/787.f735e3cf.chunk.js",
     "index.html": "/zy-wholesale/index.html",
     "main.075b2913.css.map": "/zy-wholesale/static/css/main.075b2913.css.map",
-    "main.97b4e9d0.js.map": "/zy-wholesale/static/js/main.97b4e9d0.js.map",
+    "main.ead64dab.js.map": "/zy-wholesale/static/js/main.ead64dab.js.map",
     "787.f735e3cf.chunk.js.map": "/zy-wholesale/static/js/787.f735e3cf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.075b2913.css",
-    "static/js/main.97b4e9d0.js"
+    "static/js/main.ead64dab.js"
   ]
 }

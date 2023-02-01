@@ -1,5 +1,6 @@
 import "./App.css";
 import { useEffect, useState } from "react";
+import TJImage from "./component/TJImage";
 
 function App() {
   const [state, setState] = useState([]);
@@ -23,9 +24,10 @@ function App() {
       <div className="">
         {state?.rows ? (
           state.rows.map(({ id, titleEn, titleJp }, idx) => (
-            <div className="container py-3">
-              <div className="card" key={idx}>
-                <img
+            <div className="container py-3" key={idx}>
+              <div className="card">
+                <TJImage
+                  id={id}
                   className="card-img-top"
                   src={`https://tenso-japan.com/business/rest/product/image?id=${id}`}
                   alt={titleEn}

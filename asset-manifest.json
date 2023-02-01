@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/zy-wholesale/static/css/main.075b2913.css",
+    "main.js": "/zy-wholesale/static/js/main.8a877588.js",
+    "static/js/787.f735e3cf.chunk.js": "/zy-wholesale/static/js/787.f735e3cf.chunk.js",
+    "static/media/logo.svg": "/zy-wholesale/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/zy-wholesale/index.html",
+    "main.075b2913.css.map": "/zy-wholesale/static/css/main.075b2913.css.map",
+    "main.8a877588.js.map": "/zy-wholesale/static/js/main.8a877588.js.map",
+    "787.f735e3cf.chunk.js.map": "/zy-wholesale/static/js/787.f735e3cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.075b2913.css",
+    "static/js/main.8a877588.js"
+  ]
+}

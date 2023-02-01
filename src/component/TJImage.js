@@ -11,7 +11,7 @@ export default function TJImage({ id, alt, className, src }) {
         const rsp = await fetch(
           `https://japanese-products.deno.dev/image/${id}`
         ).then((rsp) => rsp.json());
-        console.log("rsp", rsp?.resultBody?.data?.id);
+        // console.log("rsp", rsp?.resultBody?.data?.id);
         if (rsp?.resultBody?.data?.image)
           setImageSrc(rsp?.resultBody?.data?.image);
       } catch (e) {

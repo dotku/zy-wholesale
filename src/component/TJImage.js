@@ -20,5 +20,5 @@ export default function TJImage({ id, alt, className, src }) {
     }
     getImage();
   }, [id]);
-  return <img src={imgSrc || src} alt={alt} className={className} />;
+  return <img src={imgSrc ? imgSrc : src} alt={alt} className={className} />;
 }
